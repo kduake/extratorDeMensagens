@@ -1,6 +1,6 @@
-# extratorDeMensagens
+# Extrator de mensagens
 
-# Um código para:
+# Objetivo:
 ## 1 - Fazer o login e salvar a sessão no Telegram
 ## 2 - Entrar no grupo designado pelo usuario
 ## 3 - Extrair e armazenar mensagens através de automação
